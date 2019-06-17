@@ -2,7 +2,7 @@
 
 #### _Tick Tack Toe Browser Game, 2019_
 
-#### By _**Nathan Brian Justin**_
+#### By _**Nathan, Brian, and Justin**_
 
 ## Description
 
@@ -16,12 +16,12 @@ _Tick Tack Toe Browser Game_
 
 |Discription|Input|Output|
 |-|-|-|
-|Take a click and place a letter in the square|User clicks square|Letter goes into box|  
-|
+|Take a click and place a letter in the square|User clicks square|Letter goes into box|
+|When 3 in a row match a winner is declaired|X-X-X|X wins!|
 
 ## Known Bugs
 
-_Start new game at any time_
+_No known bugs_
 
 ## Support and contact details
 
